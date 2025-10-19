@@ -1,0 +1,14 @@
+{
+  "layoutName": "AI Stuff",
+  "windows": [
+    {
+      "media": {
+        "src": "C:\\Users\\Tobia\\Desktop\\AI.jpg"
+      },
+      "width": 800,
+      "height": 853,
+      "x": 25,
+      "y": 25
+    }
+  ]
+}
